@@ -6,24 +6,50 @@
 
 ## Phase 1 Screenshots
 - Screenshot 1A: ./test_objects output — all tests passing
+<img width="938" height="261" alt="Screenshot 2026-04-18 180641" src="https://github.com/user-attachments/assets/1442d301-da35-4753-bcbf-5d3f72c144be" />
+
+
 - Screenshot 1B: find .pes/objects -type f — sharded directory structure
+<img width="911" height="232" alt="Screenshot 2026-04-18 180709" src="https://github.com/user-attachments/assets/ed2777a6-2118-4eda-a9a9-56a222714278" />
+
+
+
 
 ## Phase 2 Screenshots
 - Screenshot 2A: ./test_tree output — all tests passing
+<img width="575" height="130" alt="Screenshot 2026-04-18 190658" src="https://github.com/user-attachments/assets/3092b683-c72c-4b84-9105-166bda12a3a2" />
+
+
+  
 - Screenshot 2B: xxd of raw tree object
+<img width="1399" height="130" alt="Screenshot 2026-04-18 190944" src="https://github.com/user-attachments/assets/4b55a694-60f5-4b22-973e-dcf3d492f2d1" />
+
+
 
 ## Phase 3 Screenshots
 - Screenshot 3A: pes init → pes add → pes status sequence
+- - <img width="749" height="480" alt="Screenshot 2026-04-18 182730" src="https://github.com/user-attachments/assets/8f69444b-49d1-4c3c-bf20-1b91f4170814" />
 - Screenshot 3B: cat .pes/index showing text-format index
+- - <img width="892" height="85" alt="Screenshot 2026-04-18 182736" src="https://github.com/user-attachments/assets/d48bd83a-8c83-4472-bdcb-df54b91f58b3" />
 
 ## Phase 4 Screenshots
 - Screenshot 4A: pes log output with three commits
+- <img width="721" height="361" alt="Screenshot 2026-04-18 183243" src="https://github.com/user-attachments/assets/0cc432ac-8a90-4014-8960-e12838d5bc09" />
+
 - Screenshot 4B: find .pes -type f | sort showing object growth
+<img width="772" height="259" alt="Screenshot 2026-04-18 183319" src="https://github.com/user-attachments/assets/75f25e55-469c-4c7f-91f8-cb35aa0891ac" />
+
+
 - Screenshot 4C: cat .pes/refs/heads/main and cat .pes/HEAD
+<img width="794" height="90" alt="Screenshot 2026-04-18 183359" src="https://github.com/user-attachments/assets/314a6693-b88e-450a-8997-ca4511284b79" />
+
+
+
 
 ## Final Integration Test
 - All integration tests completed successfully
-
+- <img width="821" height="978" alt="Screenshot 2026-04-18 183500" src="https://github.com/user-attachments/assets/9dedba2d-8106-4654-8e30-dea5558af09c" />
+<img width="915" height="674" alt="Screenshot 2026-04-18 183518" src="https://github.com/user-attachments/assets/1e7d985f-6484-4bc7-8318-70d5b51e80a6" />
 ---
 
 ## Phase 5: Branching and Checkout
