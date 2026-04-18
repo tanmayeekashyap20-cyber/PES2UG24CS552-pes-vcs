@@ -201,3 +201,4 @@ int index_add(Index *index, const char *path) {
 }
 // Phase 3 complete
 // index save done
+// index add done
