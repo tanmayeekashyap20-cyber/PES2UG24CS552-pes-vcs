@@ -192,3 +192,4 @@ int commit_create(const char *message, ObjectID *commit_id_out) {
     // 5. Update HEAD to point to new commit
     return head_update(commit_id_out);
 }
+// Phase 4 complete
